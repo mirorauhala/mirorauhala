@@ -6,8 +6,6 @@
 
 🌱 Currently learning modern web-development technologies.
 
-👨‍💻 Looking for a summer job for 2022.
-
 Get in touch at [miro@rauhala.dev](mailto:miro@rauhala.dev)
 
 ## Skills
